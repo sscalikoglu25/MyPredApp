@@ -362,7 +362,7 @@ st.markdown("Does this person use Linkedin?")
 
 "Select the options that apply to you."
 income = st.selectbox(label="Household Income",
-options=("Less than 10,000", 
+options=("Less than $10,000", 
 "$10,000 to $20,000", 
 "$20,000 to $30,000", 
 "$30,000 to $40,000", 
